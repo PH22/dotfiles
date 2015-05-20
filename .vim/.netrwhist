@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/root/hdvr/hdvr/build/makefiles'
+let g:netrw_dirhist_2='/root/hdvr/hdvr/src/dvr_rdk/makerules'
+let g:netrw_dirhist_3='/root/recoapp/recoapp/src/libs/public'
+let g:netrw_dirhist_4='/root/recoapp/recoapp/src/libs/vapi/ti816x-evm/makerules'
+let g:netrw_dirhist_5='/root/8107/rv510/build/makefiles/dvr_rdk'
+let g:netrw_dirhist_6='/usr/local/DM810x_DVR_RDK_V03.00.01.26/dvr_rdk/bin'
+let g:netrw_dirhist_7='/usr/local/DM810x_DVR_RDK_V03.00.01.26/dvr_rdk/makerules'
+let g:netrw_dirhist_8='/home/ph22/JustTest/makefile/huge/source/foo/src'
+let g:netrw_dirhist_9='/home/ph22/JustTest/makefile/huge/source/huge/src'
